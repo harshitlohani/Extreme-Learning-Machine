@@ -1,1 +1,1 @@
-# Extreme-Machine-Learning
+# Extreme-Learning-Machine
